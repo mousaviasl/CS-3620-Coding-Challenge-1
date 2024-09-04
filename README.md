@@ -1,2 +1,3 @@
-#CS3620
-This is just a test for a class assignment
+#CS 3620 Coding Challenge 1
+
+Status: first challenge activity has been pushed. 
